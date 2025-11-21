@@ -32,7 +32,7 @@ Proyek ini dibangun menggunakan teknologi yang umum digunakan dalam industri unt
   - `Screenshot on Failure/Success`: Mengambil screenshot secara otomatis setelah setiap tes selesai untuk dokumentasi visual.
   - `Emailable Report`: Mengirim laporan hasil tes melalui email (implementasi dasar).
 
-## ஸ்ட்ரகtur Proyek
+## Struktur Proyek
 
 Proyek ini disusun mengikuti pola desain **Page Object Model (POM)** untuk memisahkan logika tes dari elemen UI. Ini membuat skrip lebih bersih, mudah dibaca, dan mudah dikelola.
 
